@@ -101,7 +101,7 @@ window.CONFIG = {
     beat: {
       ruleText: 'ジャストの1拍を 撃ちぬけ!!',
       bpm: 120,
-      perfectMs: 50, goodMs: 120,   // 判定シビア(旧: 90/200)
+      perfectMs: 50, goodMs: 75,   // 判定シビア(旧: 90/200)
       danceFrames: ['stand_aoi.png', 'stand_aoi_kime.png'],
       images: {
         bg: 'bg_beat.png', note: 'note_beat.png', ring: 'ring_beat.png',
